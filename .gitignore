@@ -1,0 +1,29 @@
+# Json files
+*.json
+
+# XML files
+*.xml
+
+# Zip files
+*.zip
+
+# Text files
+*.txt
+
+# CSV files
+*.csv
+
+# Log files
+*.log
+
+# Database files
+*.db
+
+# sqlite
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints
+
+# Directories
+__pycache__
